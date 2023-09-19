@@ -9,3 +9,7 @@
 
 ## 결과
 <img width="827" alt="output_screenshot" src="https://github.com/SeoyoungOhMe/PasswordCracking/assets/96602351/4583daff-2f30-4805-be3e-e1aa5d542cd5">
+
+## 사용환경
+  Python
+  VSCode
