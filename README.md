@@ -1,4 +1,4 @@
-# Password Cracking - 정보시스템보안(01) 과제
+# Password Cracking - 정보시스템보안(01) 과제 1
 
 ## 목표
 Implement a password cracker in Python and find out as many passwords as possible with a given 1MillionPassword_hashed.txt file. A 3-character salt has been used, consisting of lowercase letters or numbers.
